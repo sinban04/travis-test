@@ -9,3 +9,4 @@ WORKDIR /home/pi/ANT
 ADD . /home/pi/ANT
 RUN cd /home/pi/ANT
 RUN pwd
+RUN ls
